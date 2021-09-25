@@ -12,14 +12,13 @@ Based on **BugMeNot_ScraperV2** now is available from Heroku cloud provider an i
 </a>
 </div>
 
-
+## Connect the bot to your server: https://discord.com/api/oauth2/authorize?client_id=889914983448711218&permissions=67584&scope=bot
 
 <div align="center">
 <a href="https://discord.com/api/oauth2/authorize?client_id=889914983448711218&permissions=67584&scope=bot">
 <img width="30%" src=https://images.squarespace-cdn.com/content/v1/52290b27e4b0d4e459887aa9/1523645697591-KOD97HRR5QMOQ99BU0SK/join-us-on-discord_1.png?format=750w>
 </a>
 </div>
-
 
 # ▪ Goal:
 ### Return share login information:
